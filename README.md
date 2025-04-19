@@ -13,12 +13,11 @@ Ten projekt zawiera kilka wersji prostego API stworzonego przy użyciu Flask. AP
 - `app3.py` – obsługa parametru `name` w `/hello`
 - `app.py` – pełna wersja z prostym modelem predykcyjnym
 - `requirements.txt` – wymagane biblioteki (Flask)
-- `Dockerfile` – konfiguracja kontenera Docker
-- `README.md` – ten plik
+- `Dockerfile` – konfiguracja Docker
+- `README.md` 
 
 ## Jak uruchomić
 
-### Lokalnie
 
 1. Zainstaluj wymagane biblioteki:
     ```bash
